@@ -18,17 +18,22 @@ visualizations that support business decisions.
 
 ## 📊 Featured Projects
 
-### Pharmaceutical Sales Analysis
+### [Pharmaceutical Sales Analysis](https://github.com/anni7heyer-dot/pharmaceutical-sales-analysis)
 
-Analyzed pharmaceutical sales data using SQL and Power BI to identify sales
-trends, regional performance and product-level insights.
+Interactive Power BI dashboard analyzing pharmaceutical sales across Germany and Poland.
+
+- Analyzed revenue, products, customers, cities and distribution channels
+- Created management KPIs and interactive filters using Power BI and DAX
+- Cleaned and transformed the dataset using Power Query
+- Documented the project with a dashboard preview and sample dataset
+
+**Tools:** Power BI, Power Query, DAX, Data Modeling
 
 ### Data Cleaning and Exploratory Analysis
 
-Cleaned and transformed raw datasets using Python, Pandas and NumPy and
-performed exploratory analysis to identify trends, correlations and outliers.
+Cleaned and transformed raw datasets using Python, Pandas and NumPy and performed exploratory analysis to identify trends, correlations and outliers.
 
-_Project repositories will be added soon._
+_Repository coming soon._
 
 ## 🌱 Currently
 
