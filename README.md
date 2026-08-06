@@ -27,18 +27,11 @@ Interactive Power BI dashboard analyzing pharmaceutical sales across Germany and
 - Cleaned and transformed the dataset using Power Query
 - Documented the project with a dashboard preview and sample dataset
 
-**Tools:** Power BI, Power Query, DAX, Data Modeling
-
-### Data Cleaning and Exploratory Analysis
-
-Cleaned and transformed raw datasets using Python, Pandas and NumPy and performed exploratory analysis to identify trends, correlations and outliers.
-
-_Repository coming soon._
-
 ## 🌱 Currently
 
 - Completing a Data Analyst program at the Data Science Institute Berlin
 - Expanding my skills in AWS and Python
+- Developing a standalone Python data cleaning and exploratory analysis project
 
 ## 📫 Connect with me
 
