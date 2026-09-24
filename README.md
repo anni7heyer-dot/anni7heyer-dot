@@ -27,11 +27,10 @@ Interactive Power BI dashboard analyzing pharmaceutical sales across Germany and
 - Cleaned and transformed the dataset using Power Query
 - Documented the project with a dashboard preview and sample dataset
 
-## 🌱 Currently
+## 🌱 Growth
 
-- Completing a Data Analyst program at the Data Science Institute Berlin
-- Expanding my skills in AWS and Python
-- Developing a standalone Python data cleaning and exploratory analysis project
+- Completed a Data Analyst program at the Data Science Institute Berlin
+- Expanding my skills in Power Bi and Python
 
 ## 📫 Connect with me
 
