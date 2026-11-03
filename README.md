@@ -23,11 +23,13 @@ Power BI report with three pages for management, sales managers and head of sale
 star-schema data model, DAX measures and interactive filters across Germany and Poland.
 `Power BI` `DAX` `Power Query`
 
-<!-- Weitere Projekte hier ergänzen, sobald sie hochgeladen sind, z. B.:
 ### [Olympic Games Analysis](https://github.com/anni7heyer-dot/olympics-analysis)
-SQL hypothesis testing, Python normalization notebook and a Power BI report.
-`SQL` `Python` `Power BI`
+Olympic data from 1904–2016: normalized a flat dataset into 5 tables with Python, built a PostgreSQL
+database with keys and validation, answered two business questions with SQL (joins, window functions)
+and visualized the results in Power BI.
+`Python` `PostgreSQL` `SQL` `Power BI`
 
+<!-- Weitere Projekte hier ergänzen, sobald sie hochgeladen sind, z. B.:
 ### [Nighttime Lights & Urbanization in Asia](https://github.com/anni7heyer-dot/ntl-urbanization-asia)
 Team project (3 people): satellite nighttime-light data vs. population health.
 Data cleaning in Python, joins in SQL, my part: Power BI star schema and 8 reports.
