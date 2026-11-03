@@ -1,37 +1,43 @@
 # Hi, I'm Annika 👋
 
-I'm a Junior Data Analyst based in Germany with a background in technical
-customer consulting and data analytics.
+Data Analyst based in the Cologne/Bonn area, Germany.
+I moved into data after several years in customer consulting and team leadership
+(deputy department lead at Fielmann AG) and completed a full-time Data Analyst
+program at the Data Science Institute Berlin (2026).
 
-I enjoy transforming raw data into clear insights and interactive
-visualizations that support business decisions.
+I like turning messy raw data into clean models, clear dashboards and decisions –
+and automating the boring parts along the way.
 
 ## 🛠️ Skills
 
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis
-- **Business Intelligence:** Power BI, DAX
-- **Data Engineering:** ETL, Airflow, n8n
+- **Languages:** SQL, Python (Pandas, NumPy)
+- **BI & Visualization:** Power BI, DAX, Power Query, data modeling (star schema)
+- **Data Engineering & Automation:** ETL, n8n, Airflow
 - **Cloud:** AWS Fundamentals
-- **Development:** Git, GitHub
-- **Project Management:** Scrum
+- **Tools & Methods:** Git, GitHub, Excel, Scrum
 
 ## 📊 Featured Projects
 
 ### [Pharmaceutical Sales Analysis](https://github.com/anni7heyer-dot/pharmaceutical-sales-analysis)
+Power BI report with three pages for management, sales managers and head of sales –
+star-schema data model, DAX measures and interactive filters across Germany and Poland.
+`Power BI` `DAX` `Power Query`
 
-Interactive Power BI dashboard analyzing pharmaceutical sales across Germany and Poland.
+<!-- Weitere Projekte hier ergänzen, sobald sie hochgeladen sind, z. B.:
+### [Olympic Games Analysis](https://github.com/anni7heyer-dot/olympics-analysis)
+SQL hypothesis testing, Python normalization notebook and a Power BI report.
+`SQL` `Python` `Power BI`
 
-- Analyzed revenue, products, customers, cities and distribution channels
-- Created management KPIs and interactive filters using Power BI and DAX
-- Cleaned and transformed the dataset using Power Query
-- Documented the project with a dashboard preview and sample dataset
+### [Nighttime Lights & Urbanization in Asia](https://github.com/anni7heyer-dot/ntl-urbanization-asia)
+Team project (3 people): satellite nighttime-light data vs. population health.
+Data cleaning in Python, joins in SQL, my part: Power BI star schema and 8 reports.
+`Python` `SQL` `Power BI`
+-->
 
-## 🌱 Growth
+## 🗣️ Languages
 
-- Completed a Data Analyst program at the Data Science Institute Berlin
-- Expanding my skills in Power Bi and Python
+German (native) · English (C1)
 
-## 📫 Connect with me
+## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/annika-heyer-bb75b8419)
+[LinkedIn](https://www.linkedin.com/in/annika-heyer-bb75b8419) · anni7heyer@gmail.com
