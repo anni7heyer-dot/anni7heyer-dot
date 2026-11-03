@@ -29,12 +29,10 @@ database with keys and validation, answered two business questions with SQL (joi
 and visualized the results in Power BI.
 `Python` `PostgreSQL` `SQL` `Power BI`
 
-<!-- Weitere Projekte hier ergänzen, sobald sie hochgeladen sind, z. B.:
-### [Nighttime Lights & Urbanization in Asia](https://github.com/anni7heyer-dot/ntl-urbanization-asia)
-Team project (3 people): satellite nighttime-light data vs. population health.
-Data cleaning in Python, joins in SQL, my part: Power BI star schema and 8 reports.
+### [Urbanization & Health in Asia](https://github.com/anni7heyer-dot/ntl-urbanization-asia)
+Final team project (3 people): satellite nighttime-light data as a proxy for urbanization vs. population health
+in 45 Asian countries (1992–2022). Python cleaning and panel regression, SQL joins. My part: Power BI star schema and 8 report pages.
 `Python` `SQL` `Power BI`
--->
 
 ## 🗣️ Languages
 
